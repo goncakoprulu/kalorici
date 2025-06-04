@@ -1,6 +1,5 @@
 # Kalorici Mobile App
 
-This project is a simple React Native mobile application using **Expo**. It lets users enter meal descriptions in natural language and stores them locally. Backend integration and NLP parsing will be added later.
 
 ## Getting Started
 
@@ -16,9 +15,6 @@ This project is a simple React Native mobile application using **Expo**. It lets
 
 ## Project Structure
 
-- `App.tsx` – entry point loading React Navigation.
-- `navigation/` – stack navigator configuration.
-- `screens/` – contains `LoginScreen` and `HomeScreen` components.
 - `app.json` – Expo configuration.
 - `package.json` – project dependencies and scripts.
 
